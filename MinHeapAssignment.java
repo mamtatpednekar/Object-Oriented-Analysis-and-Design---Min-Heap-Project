@@ -1,6 +1,4 @@
-/*Partners - Mamta Pednekar CSULB ID: 026909816
-             Vidyadhari Raghunadha Naidu CSULB ID: 027957174
-*/
+
 
 
 import java.util.Scanner;
